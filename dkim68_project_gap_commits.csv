@@ -1,0 +1,474 @@
+pre/post;prj;commit;author;time;message
+pre;adda-team_adda;b828f792e9a110a561c9c66ff17faf3092c6449a;Maxim Yurkin <yurkin@gmail.com>;1443167947;"Merge pull request #211 from mapclyps/master
+
+clFFT and clBLAS"
+pre;adda-team_adda;46817567630e0084cda76e86cf0b4e7283d68399;Marcus Huntemann <marcus.huntemann@gmail.com>;1443522229;"added MatVec function wrapper for oclBLAS
+"
+pre;adda-team_adda;be707df719db4e28493257f3da27289b7c54f2be;Marcus Huntemann <marcus.huntemann@gmail.com>;1445088593;"Merge pull request #213 from mapclyps/ocl_blas_wrapper
+
+added MatVec function wrapper for oclBLAS"
+pre;adda-team_adda;0d3f22bc2251d81229c9c2a26721bc7868cd6011;Maxim Yurkin <yurkin@gmail.com>;1456338502;Add missing dlls for pip.exe
+pre;adda-team_adda;de9280974914026d75ac6c1ce01d72a579a6392d;Maxim Yurkin <yurkin@gmail.com>;1456338532;Add missing dlls for pip.exe
+pre;adda-team_adda;b26b20239c68706e236116c33cd2693d01b0bb54;Maxim Yurkin <yurkin@gmail.com>;1456338574;Update dll requirements
+pre;adda-team_adda;420257135f55f82e000b0bc1355d8a914a644c7b;Maxim Yurkin <yurkin@gmail.com>;1456338639;Update dll requirements
+pre;adda-team_adda;0ef769d4fca81ea772f858b6d011748340059572;Maxim Yurkin <yurkin@gmail.com>;1456338756;"Merge pull request #217 from myurkin/master
+
+Add required dll for pip.exe in Windows package"
+pre;adda-team_adda;0a743c5f432e645763729e667bbe299dbe691c97;Maxim Yurkin <yurkin@gmail.com>;1464006139;Created README based on ../wiki/ProjectHome.md
+pre;adda-team_adda;6d3c9fcba53a2551cd87168659f931cebcee7f5b;Maxim Yurkin <yurkin@gmail.com>;1487322955;Permanent links to issues
+post;adda-team_adda;8fbc055f0c403cdcb8673b182d62987b9549ac16;Maxim Yurkin <yurkin@gmail.com>;1526649267;Rename doc/copyleft to LICENSE
+post;adda-team_adda;df8ac2a4889f3745b552330223c4fc22894037d6;Dmitry Smunev <dsmunev@gmail.com>;1527430300;"master to rect_dip
+"
+post;adda-team_adda;28ac820c67fb511548e1f12e5ed537b21d427acd;Dmitry Smunev <dsmunev@gmail.com>;1527925039;"local gitignore
+"
+post;adda-team_adda;0f1fc9adab3ee71160e9e304f546cb0ed1e7a52e;Dmitry Smunev <dsmunev@gmail.com>;1528033027;"polishing after rect_dip merging + gitignore files were added
+"
+post;adda-team_adda;c0a9fdd5d127fb3769bc952caf14b3a12d68658e;Dmitry Smunev <dsmunev@gmail.com>;1528033586;"polishing after rect_dip merging + gitignore files were added
+"
+post;adda-team_adda;5286f5215ef3202e7bca4cc5cb2b921dcce4a4de;Dmitry Smunev <dsmunev@gmail.com>;1528127513;"sute for rect_dip
+"
+post;adda-team_adda;b79b32d562521be5b00698d9ea937a214f048557;Dmitry Smunev <dsmunev@gmail.com>;1528557307;"fix code style (legacy from rect_dip branch)
+"
+post;adda-team_adda;65372768a27dcdb42746c25e90aecafae53f2abd;Dmitry Smunev <dsmunev@gmail.com>;1528559943;"comp2exec was renamed to comp2exec.sh for better usability
+"
+post;adda-team_adda;80ebab230d53ea31afe8546e5dd699d4826cad15;Dmitry Smunev <dsmunev@gmail.com>;1528560187;"comp2exec was renamed to comp2exec.sh for better usability
+"
+post;adda-team_adda;671788a3a8e571344d1ffc04f4d2d27725302766;Dmitry Smunev <dsmunev@gmail.com>;1528796649;"test suite [for case 'rect_dip 1 1 1'] was added
+IMPORTANT const.h CFORM ""%.10g%+.10gi"" -> CFORM ""%.8g%+.8gi"" ??temp solution
+"
+pre;cpmech_gosl;1b16b5ee8c9549355bc43d5b3d447b6e6e73791b;Dorival Pedroso <dorival.pedroso@gmail.com>;1631428271;"Fix codecov badge
+"
+pre;cpmech_gosl;74e40385149efb1905c1f6e75187a09cdc5c3d6e;Dorival Pedroso <dorival.pedroso@gmail.com>;1631428867;"Add Go Report badge
+"
+pre;cpmech_gosl;495f6d69ce21e7d985e845fe42618b2510242bc3;Dorival Pedroso <dorival.pedroso@gmail.com>;1631429286;"Add awesome badge
+"
+pre;cpmech_gosl;b82ce984cb12153971b23765b97c90f6ca0fcb78;Dorival Pedroso <dorival.pedroso@gmail.com>;1635551963;"[chk] Make CentralDeriv public
+"
+pre;cpmech_gosl;1b5e268b1f16452b72e1eac57a3a459979e6e399;Dorival Pedroso <dorival.pedroso@gmail.com>;1635552287;"Mention gompi in the Readme file
+"
+pre;cpmech_gosl;120ce151a69ea38011d5196ac9c1494ad9693cb2;Dorival Pedroso <dorival.pedroso@gmail.com>;1635685785;"Fix typo
+"
+pre;cpmech_gosl;ff1181c3726c09c576daa850a1aab35ac23515c3;Dorival Pedroso <dorival.pedroso@gmail.com>;1636668611;"Fix typo
+"
+pre;cpmech_gosl;d69ca2a561fe8ecc222f88157e34ed7012569f56;Dorival Pedroso <dorival.pedroso@gmail.com>;1636669026;"Fix typo
+"
+pre;cpmech_gosl;e2a35bd045017292b1ad5407985c8bfa190d6d19;Dorival Pedroso <dorival.pedroso@gmail.com>;1643326606;"Fix tests for new go1.17.6 version
+"
+pre;cpmech_gosl;c24e8a922834fb40491dd3b9d4dad034624e143d;Dorival Pedroso <dorival.pedroso@gmail.com>;1655019341;"Fix typo
+"
+post;cpmech_gosl;54b7bd07945258ef26812866eb227c15229ac691;Dorival Pedroso <dorival.pedroso@gmail.com>;1674098925;"Fix typo
+"
+post;cpmech_gosl;1888a8bde98b63bdffd63e5b01a0afc871d8985e;Dorival Pedroso <dorival.pedroso@gmail.com>;1684997434;"[la/oblas/svd] Remove results depending on specific Openblas versions
+"
+post;cpmech_gosl;669c901279b6de4ca8b2a327abd1ce0be66676b1;Dorival Pedroso <dorival.pedroso@gmail.com>;1684997761;"[la/svd] Remove results depending on specific Openblas versions
+"
+post;cpmech_gosl;b5902552c195433446eee1263c4adcfb9e8dbc40;Dorival Pedroso <dorival.pedroso@gmail.com>;1684997923;"[la/oblas/svd] Increase tolerance in test due to Openblas version
+"
+post;cpmech_gosl;e349d650c7a4b5057cc87bb420c44f7794248d6c;Dorival Pedroso <dorival.pedroso@gmail.com>;1684998631;"Update Go version in Actions
+"
+post;cpmech_gosl;efdfc01f6aca446a02056bf327ede44b0f420352;Dorival Pedroso <dorival.pedroso@gmail.com>;1685324212;"Do not compare some eigenvectors that depend on OpenBlas version
+"
+post;cpmech_gosl;10dee284e933ae2ed52b8987030df22a1496564b;Dorival Pedroso <dorival.pedroso@gmail.com>;1695507721;"fix comment
+"
+post;cpmech_gosl;b1d75e1a47a7dd1f863a306604ad646d621f0d27;Dorival Pedroso <dorival.pedroso@gmail.com>;1699591048;"Compile with Docker
+"
+post;cpmech_gosl;3441540eb51c93e8bb3f8f226ae7c77320749e74;Dorival Pedroso <dorival.pedroso@gmail.com>;1699597968;"Fix shell into script
+"
+post;cpmech_gosl;45d3fde2abac636d879dede39a23fadb9b7fad4b;Dorival Pedroso <dorival.pedroso@gmail.com>;1705386948;"Fix typo
+"
+pre;envirocar_envirocar-app;519c170f69f7edada1eed6c3baf4b82e71cba3f4;dewall <a.dewall@52north.org>;1465901638;"removed fuel_system_status
+"
+pre;envirocar_envirocar-app;257c3e82d6f3db4d0b79e3e0633e0f6976a8cb8d;dewall <a.dewall@52north.org>;1466002354;"fixed some autoconnect issues where the car was able to be null
+"
+pre;envirocar_envirocar-app;41b83fac35112e865d0b7fcb31fa42edae1db0c3;dewall <a.dewall@52north.org>;1466002372;"raised the version
+"
+pre;envirocar_envirocar-app;95464c4651d042743d94f0bc49e3157caffbe249;dewall <a.dewall@52north.org>;1466002643;"Merge pull request #305 from enviroCar/develop
+
+Develop"
+pre;envirocar_envirocar-app;ff259d3cae2cc793a08056b4e23f2ed6bc2bafb2;dewall <a.dewall@52north.org>;1466002690;"removed empty commands for the cartrend adapter
+"
+pre;envirocar_envirocar-app;c4219f42826548a549233131dc7bac2bc5e8647b;dewall <a.dewall@52north.org>;1466074807;"Merge pull request #303 from enviroCar/feature/uber-debug-log-cartrend
+
+Feature/uber debug log cartrend"
+pre;envirocar_envirocar-app;b22c2f3dca53635111f8eaa1d434299da66999f8;dewall <a.dewall@52north.org>;1466078029;"reduced the sleep for retrieving the response
+"
+pre;envirocar_envirocar-app;c78c2880ca5965d33251b160da1311b2b8d8451d;dewall <a.dewall@52north.org>;1466078232;"reduced expected init period for the cartrend adapter
+"
+pre;envirocar_envirocar-app;7c07b167c822c2784365825cc77ba94fc3eba361;dewall <a.dewall@52north.org>;1466078757;"raised version
+"
+pre;envirocar_envirocar-app;15d88c9d2f3e547bbf79cbb6d209d7a5ed455113;dewall <a.dewall@52north.org>;1466358822;corrected german string
+post;envirocar_envirocar-app;272a9f1f868e1b40fa03c70aa32a1709b01732f6;SaiKrishna <chsaikrishna105@gmail.com>;1519993117;"Removed extra ""w"" in AndroidManifest (line no 102) of org.envirocar.app package
+"
+post;envirocar_envirocar-app;d1653a3884ca44b1c3f1cac179989076fe2f6f5b;SaiKrishna <chsaikrishna105@gmail.com>;1520012300;"Fixed Issue #311 and #312
+"
+post;envirocar_envirocar-app;73461ca3da6df3370bfc3538247dfcea0bcae4ae;SaiKrishna <chsaikrishna105@gmail.com>;1520016720;"Repositioned the text ""Help"" in the toolbar to center in HelpActivity
+"
+post;envirocar_envirocar-app;929b27a522757959092d15fdeb24748b87cb5cb9;SaiKrishna <chsaikrishna105@gmail.com>;1520017317;"Title ""Select a Car"" is set to the toolbar of CarSelectionActivity
+"
+post;envirocar_envirocar-app;9d97ebc9fec609412fbdaf6748e1ec40608eac59;SaiKrishna <chsaikrishna105@gmail.com>;1520019611;"Solved the Issue #317
+"
+post;envirocar_envirocar-app;450372b1f19d96c96cd53188238868cbf6a2a47b;SaiKrishna <chsaikrishna105@gmail.com>;1520191206;"Solved the Issue #319
+"
+post;envirocar_envirocar-app;72b216cd97d38e51096fcaba94061e6fa1e4e495;dewall <a.dewall@52north.org>;1520250735;"Merge pull request #320 from SaiKrishna1827/sk6
+
+Solved the issue #319"
+post;envirocar_envirocar-app;d29c2cab7fb1b40123c91f20eb90b21367abd2a5;dewall <a.dewall@52north.org>;1520251026;Merge branch 'develop' into sk2
+post;envirocar_envirocar-app;060a57aca81874ecfdce5e39a3830e001cbe5ed6;dewall <a.dewall@52north.org>;1520251036;"Merge pull request #313 from SaiKrishna1827/sk2
+
+Fixed Issue #311 and #312"
+post;envirocar_envirocar-app;279394f3dfe86692efc2feaa8fa2a14bc64674bf;dewall <a.dewall@52north.org>;1520251103;"Merge pull request #316 from SaiKrishna1827/sk4
+
+Title ""Select a Car"" is set to the toolbar of CarSelectionActivity"
+pre;jlizier_jidt;973da6606ba91f8be6dfc5a75f300a0553fa3db8;joseph.lizier@gmail.com <joseph.lizier@gmail.com@a5dbf834-a34d-c3bd-19d4-a43a1674ff83>;1437328182;Edited wiki page MakingANewRelease to add new notes to self
+pre;jlizier_jidt;6841e46c428ba36a9f92b0b4e2f1598e1ae28497;joseph.lizier@gmail.com <joseph.lizier@gmail.com@a5dbf834-a34d-c3bd-19d4-a43a1674ff83>;1437328464;Edited wiki page Documentation to link to v1.3 javadocs
+pre;jlizier_jidt;93205adee899a69eb45531ba854878fbd326e1bd;joseph.lizier@gmail.com <joseph.lizier@gmail.com@a5dbf834-a34d-c3bd-19d4-a43a1674ff83>;1437328936;Edited wiki page Downloads to add links for v1.3 release
+pre;jlizier_jidt;7828ce0b65616c4d280a81c1db2d3ef9fb74346c;joseph.lizier@gmail.com <joseph.lizier@gmail.com@a5dbf834-a34d-c3bd-19d4-a43a1674ff83>;1437329090;Edited wiki page Installation to update links to v1.3 release
+pre;jlizier_jidt;779f5a1fe2ca26e9b5e9d8e005e9ae99edea3a35;Joseph Lizier <joseph.lizier@gmail.com>;1439992046;"Created README.md
+
+created from the converted google code wiki front page"
+pre;jlizier_jidt;4ba8a4843968fb297de2a4242eb2f7913747d6c3;Joseph Lizier <joseph.lizier@gmail.com>;1439992300;"added under construction banner
+
+... while I'm getting the wiki up properly ..."
+pre;jlizier_jidt;47eb1fc3ad04c4d9c4db5f8140116f1f175f19ab;Joseph Lizier <joseph.lizier@gmail.com>;1440078910;Fixing links on README.md
+pre;jlizier_jidt;13952302c10950fb06c9f1dbac67c27873f3dd97;Joseph Lizier <joseph.lizier@gmail.com>;1440079141;Fixed links in README.md
+pre;jlizier_jidt;973cb34e680122b284ccf44e4d3d8b2de2e91bb6;Joseph Lizier <joseph.lizier@gmail.com>;1440166205;Create gh-pages branch via GitHub
+pre;jlizier_jidt;11b102e3e539867fb3afd53aa40de2d5e5c9209b;Joseph Lizier <joseph.lizier@gmail.com>;1440166481;Create gh-pages branch via GitHub
+post;jlizier_jidt;5074c1b6f73dcecfa230c451689f76b3fa82739f;Pedro Martínez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1457831719;"Initial commit of GPU code.
+"
+post;jlizier_jidt;493491d69c15e92a8d565469ace9d53e48077f48;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1458078882;"Add debug target to ant build script.
+"
+post;jlizier_jidt;3da629a817a5da84c43ad8f934bd966dd81f1ce4;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1458081372;"Preliminary commit of multivariate AIS calculators and unit tests. Fully functional, but not tested enough.
+"
+post;jlizier_jidt;99a856cd8cab118b8daabacd859df5444561b499;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1458083040;"Merge branch 'master' into gpu
+
+Conflicts:
+	build.xml
+"
+post;jlizier_jidt;6f87aed980e3a881f04d7ce2afc8f0db34ae3806;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1461086522;"Added preliminary version of Ragwitz optimization in multivariate AIS calculator.
+"
+post;jlizier_jidt;08bb2dd60964da8695268f6f2db4c268cd26462e;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1462613233;"Fix bug in TE multivariate.
+"
+post;jlizier_jidt;c40b8ae80c79c28939b4af8d8a8f954fe06b56ab;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1463671187;"Merge branch 'master' into gpu
+"
+post;jlizier_jidt;a721f267346da9b76dd754bcd32f96c5486e7b47;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1464803697;"Discrete conditional TE now supports different bases for each variable.
+
+Also added some generic unit tests.
+"
+post;jlizier_jidt;2654e848ae2064e710cda00ec9780df4ca9aeac2;Pedro Martinez Mediano <pedro.martinez-mediano13@imperial.ac.uk>;1476399512;"Add new MultiInformationCalculatorGaussian.
+
+At the moment is supports local measures, but not automatic significance
+calculation. For that the method needs to be cloneable.
+"
+post;jlizier_jidt;77cf8e5f8e0c80e13b30ac9a080d093c994bb2e5;jlizier <joseph.lizier@gmail.com>;1476681779;Major update to TransferEntropyCalculatorDiscrete so as to implement arbirtray source and dest embeddings and source-dest delay. Also included are associated unit tests, and modifications to MatrixUtils to support these.
+pre;juliamath_gsl.jl;a45bbdffc8309be4e502b8c61f68c735f5abc706;Ludvig af Klinteberg <ludvigak@users.noreply.github.com>;1611327126;"Merge pull request #111 from JuliaMath/massinstallaction/set-up-CI
+
+MassInstallAction: Install the CI workflow on this repository"
+pre;juliamath_gsl.jl;3ee94eeec0fe0c55edf69b9c9264deb67e791a59;Ludvig af Klinteberg <ludvigak@users.noreply.github.com>;1611484379;Add CI badge
+pre;juliamath_gsl.jl;4c54d5c3f6ddb49ba55c99aaa63a7cef8e7173d1;Seth Axen <seth.axen@gmail.com>;1611487009;Bump SpecialFunctions compat
+pre;juliamath_gsl.jl;43dbf19a595fc737ea3b3e85ea80f105170af0bf;Mosè Giordano <giordano@users.noreply.github.com>;1611487673;"Merge pull request #112 from sethaxen/sethaxen-patch-1
+
+Bump SpecialFunctions compat"
+pre;juliamath_gsl.jl;7151b188bf96bc84f26d2f2286d842bbd4e8ef41;Simon Byrne <simonbyrne@gmail.com>;1611549964;Update TagBot.yml
+pre;juliamath_gsl.jl;062be48c9d1fd1fc33948b38850de816fae3132a;Mosè Giordano <mose@gnu.org>;1611581648;"Fix Julia versions for Drone CI
+
+Also, only run on `master` branch, and test for aarch64 with Julia v1.5
+"
+pre;juliamath_gsl.jl;94a1635c1cbc6d394e60be0c46ca1913c549ee8d;Mosè Giordano <giordano@users.noreply.github.com>;1611586490;"Merge pull request #115 from giordano/mg/drone
+
+Fix Julia versions for Drone CI"
+pre;juliamath_gsl.jl;dd0656edbcdcdaaef6938c4a29dd290e4f40586f;Ludvig af Klinteberg <ludvigak@users.noreply.github.com>;1611648405;Update badges
+pre;juliamath_gsl.jl;36dae5f665c2e675a2e0ce6bbdfbfb36d3e14f9b;Zihua Wu <qqbbnease1004@126.com>;1623422184;Update README.md to reflect the upgrade to GSL 2.7
+pre;juliamath_gsl.jl;45af4e8150cd1fc4db12fabad872f0dc45a4796f;Zihua Wu <qqbbnease1004@126.com>;1623423164;"Update README.md to reflect the upgrade to GSL 2.7 (#117)
+
+[skip ci]"
+post;juliamath_gsl.jl;18238d7c29834c1525366397ea0a42270fab9c77;spaette <spaette@outlook.com>;1676856877;"typos
+"
+post;juliamath_gsl.jl;6c96028208f92c5c39391ce4658cbebc2908f1ea;spaette <111918424+spaette@users.noreply.github.com>;1676870192;"typos (#121)
+
+"
+post;juliamath_gsl.jl;dcd07cd985acbab32945dc4e8c47a8db914d2e5d;Hendrik Ranocha <mail@ranocha.de>;1678800556;"enable dependabot for GitHub actions
+"
+post;juliamath_gsl.jl;ae936b1e1b1cbff667d06ae4a2b22391c1a55050;Hendrik Ranocha <ranocha@users.noreply.github.com>;1678905607;"enable dependabot for GitHub actions (#122)
+
+"
+post;juliamath_gsl.jl;9535d3bce0c39378279c55fdd065db9a46a6ded7;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678905630;"Bump actions/cache from 1 to 3
+
+Bumps [actions/cache](https://github.com/actions/cache) from 1 to 3.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v1...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;juliamath_gsl.jl;048143212b7709242b5ebc37329790cf86a60086;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678905631;"Bump actions/checkout from 2 to 3
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;juliamath_gsl.jl;eb2d0f7be61fb7c2333efe89744371deb8077dec;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678905634;"Bump codecov/codecov-action from 1 to 3
+
+Bumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 1 to 3.
+- [Release notes](https://github.com/codecov/codecov-action/releases)
+- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/codecov/codecov-action/compare/v1...v3)
+
+---
+updated-dependencies:
+- dependency-name: codecov/codecov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;juliamath_gsl.jl;80fd542abdd971a0ddb6c77fd0cc9b7905619bc3;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678908911;"Bump codecov/codecov-action from 1 to 3 (#125)
+
+Bumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 1 to 3.
+- [Release notes](https://github.com/codecov/codecov-action/releases)
+- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/codecov/codecov-action/compare/v1...v3)
+
+---
+updated-dependencies:
+- dependency-name: codecov/codecov-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+post;juliamath_gsl.jl;e7d2392706f108ac3168abf0e4cb6dbcd5de433a;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678908917;"Bump actions/cache from 1 to 3 (#123)
+
+Bumps [actions/cache](https://github.com/actions/cache) from 1 to 3.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)
+- [Commits](https://github.com/actions/cache/compare/v1...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+post;juliamath_gsl.jl;ac91f68ae74a2ef4bcbc76a1b57858c728da71e8;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1678908926;"Bump actions/checkout from 2 to 3 (#124)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2...v3)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+pre;kul-forbes_forbes;8253a092cd7a6f7972732b4c8b5f6e5386e08072;Willem Melis <zilleplus@gmail.com>;1520174840;"bug fix: same thing as with lbfgs
+"
+pre;kul-forbes_forbes;dc65c2366e10a76b7166228adb65acb9a20d68a0;Pantelis Sopasakis <alphaville@users.noreply.github.com>;1520283363;"Merge pull request #3 from Zilleplus/master
+
+crash of Forbes on Matlab 2017a"
+pre;kul-forbes_forbes;1a63ae167f653ed01299c3fc440e0f75551300d8;Willem Melis <zilleplus@gmail.com>;1522194416;"performance update, lbfgs now works with blas routines
+"
+pre;kul-forbes_forbes;22cff9d367d8e62f5c043a3751c18cb42f329549;Willem Melis <zilleplus@gmail.com>;1525372214;"added first version of panoc, supporting box and costum constraints
+"
+pre;kul-forbes_forbes;7a40b520b5870f5483f82a5a533d49050081c2a4;Willem Melis <willem.melis@student.kuleuven.be>;1525727707;"Merge pull request #4 from Zilleplus/master
+
+performance update, lbfgs now works with blas routines"
+pre;kul-forbes_forbes;0201d44aa9e179f30dba8288bac825410c145ba7;Willem Melis <zilleplus@gmail.com>;1525728935;"added gamma as variable to the constraint function
+"
+pre;kul-forbes_forbes;fd3b52a841d2214333b8fcc9f51b8f16faea3ba6;Zilleplus <zilleplus@gmail.com>;1525876661;"tested panoc on linux, Matlab 2016a
+"
+pre;kul-forbes_forbes;44e002c1d0940beacc69a5531830e50bf84b77d5;Willem Melis <zilleplus@gmail.com>;1525877062;"removed c++ style comment
+"
+pre;kul-forbes_forbes;74ff2ba949a092c9e309941b0b04c4c124e5c3ad;Melis <Melis@MacBook-Pro-van-Melis.local>;1526382069;"added Matlab2016a bin for mac OS
+"
+pre;kul-forbes_forbes;27293fd5b58a4b751494886889198e120614e404;Willem Melis <willem.melis@student.kuleuven.be>;1526384505;"Merge 74ff2ba949a092c9e309941b0b04c4c124e5c3ad into 44e002c1d0940beacc69a5531830e50bf84b77d5
+"
+post;kul-forbes_forbes;10b18f1133d0249c9dfc9319811662104c89bd95;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541072813;"maros-meszaros-tests for nama-qp
+"
+post;kul-forbes_forbes;23871e6b4460072bf234377c561116a76dec112c;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541082426;"fixed error
+"
+post;kul-forbes_forbes;315ffc7c4cdbf4a77b538354507d7ccbf6c4d63c;Manish KL Arora <manish.krishanlal@esat.kuleuven.be>;1541102119;Delete results.csv
+post;kul-forbes_forbes;93668f27e006f61299f6722aa35b91043ccc3009;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541188359;"ruix equilibration worsens results, so kept jacobi scaling, added AMA-adaptive comparison plots
+"
+post;kul-forbes_forbes;964f3e8a3315006fc002e9dd4d53754ac83eb16d;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541188486;"Merge branch 'nama-qp' of https://github.com/kul-forbes/ForBES into nama-qp
+"
+post;kul-forbes_forbes;9d9a0da91cf697a4a6c2f0d929cef942be3f5178;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541264807;"small update
+"
+post;kul-forbes_forbes;ace699f0561fc9165a08ada25bb1bb7516e271de;mkrishan <manish.krishanlal@esat.kuleuven.be>;1541411772;"Lipshitz constant
+"
+post;kul-forbes_forbes;2910f1e47ea2269ddf35467559a884dcdcdd41bf;mkrishan <manish.krishanlal@esat.kuleuven.be>;1542216086;"fixed adaptive
+"
+post;kul-forbes_forbes;f1c04c1f72a2d2d82de7aa1cbc6a2cedfb581546;mkrishan <manish.krishanlal@esat.kuleuven.be>;1546021675;"added FB-trust-region, trucated-newton
+"
+post;kul-forbes_forbes;df60ae51f038ef55269392652b2f12e2bf6505b2;mkrishan <manish.krishanlal@esat.kuleuven.be>;1547803536;"reached optimum message-problem not solved
+"
+pre;open-quantum-safe_ci-containers;aeeabcea32805cff0fb7ba3fdb1b88c08f8631d5;Douglas Stebila <dstebila@uwaterloo.ca>;1627607651;"Add ubuntu-bionic-i386
+"
+pre;open-quantum-safe_ci-containers;afa6c79559fe478c0e2fe78f998f0ce8f51efeeb;Douglas Stebila <dstebila@users.noreply.github.com>;1627665461;"Add ubuntu-bionic-i386 (#55)
+
+"
+pre;open-quantum-safe_ci-containers;c4b125ece1baaaffd24327b4416cbd8f9fae3f51;Michael <57787676+baentsch@users.noreply.github.com>;1638085021;"upgrading to Debian 11/bullseye
+"
+pre;open-quantum-safe_ci-containers;5aa050ae8363c18a7c4cc30215a816b31a5663bd;Michael Baentsch <info@baentsch.ch>;1638202019;"upgrading to Debian 11/bullseye (#56)
+
+"
+pre;open-quantum-safe_ci-containers;bf69df2dca681752891bcd37464e2613f7adfd84;Michael <57787676+baentsch@users.noreply.github.com>;1640072220;"cmake update for bionic-i386
+"
+pre;open-quantum-safe_ci-containers;81698b5878eb2d1a408eecb9935d9380cc484bec;Michael <57787676+baentsch@users.noreply.github.com>;1640076773;"correct build platform for cmake
+"
+pre;open-quantum-safe_ci-containers;be443961eb097821161e5a7ced83a8fc45cd0326;Michael <57787676+baentsch@users.noreply.github.com>;1640077918;"correct sh syntax
+"
+pre;open-quantum-safe_ci-containers;ee4c04991969b1b272c7efa8deaadd705883a580;Michael <57787676+baentsch@users.noreply.github.com>;1640090362;"change ARM to large resource class
+"
+pre;open-quantum-safe_ci-containers;1505120f1e5b6e5d319efb78d927b727702858e0;Michael <57787676+baentsch@users.noreply.github.com>;1640098421;"parallel make doxygen to speed up arm
+"
+pre;open-quantum-safe_ci-containers;76459930538716c41a04f31b71a6b950edd0a4c7;Michael Baentsch <info@baentsch.ch>;1640101338;"upgrade bionic cmake (#57)
+
+* cmake update for bionic-i386
+
+* correct build platform for cmake
+
+* correct sh syntax
+
+* change ARM to large resource class
+
+* parallel make doxygen to speed up arm"
+post;open-quantum-safe_ci-containers;967f541b5dfca176887f919d222647affdf48417;Michael <57787676+baentsch@users.noreply.github.com>;1656400413;"adding scan-build
+"
+post;open-quantum-safe_ci-containers;bb5e1bde964b5dbf341ed5a2fe77b18eb981115e;Michael <57787676+baentsch@users.noreply.github.com>;1656401024;"upgrade docker for ARM64 to circumvent GPG errors
+"
+post;open-quantum-safe_ci-containers;88b2273fa844b6b99e593822c7f4e80098726998;Michael <57787676+baentsch@users.noreply.github.com>;1656403313;"correcting package name
+"
+post;open-quantum-safe_ci-containers;efd3a03826bb57810e708275cdf9c8fc7a666dde;Michael Baentsch <57787676+baentsch@users.noreply.github.com>;1656411362;"Adding scan-build support (#58)
+
+* adding scan-build
+
+* upgrade docker for ARM64 to circumvent GPG errors
+"
+post;open-quantum-safe_ci-containers;5daf350e72f15a29190b5600f006c655441f53b5;Michael Baentsch <57787676+baentsch@users.noreply.github.com>;1656510193;"upgrade to llvm14
+"
+post;open-quantum-safe_ci-containers;27a2bcfa1d376fd937382c0996d0733f636e5255;Michael Baentsch <57787676+baentsch@users.noreply.github.com>;1656564576;"upgrade to llvm14 (#59)
+
+"
+post;open-quantum-safe_ci-containers;17d2d1a6ad752d70afb7238ac334043b9ded2839;Michael <57787676+baentsch@users.noreply.github.com>;1657008032;"enable profiling analysis
+"
+post;open-quantum-safe_ci-containers;04cc42c556f83e3db194c934f08dc0db5758b878;Michael <57787676+baentsch@users.noreply.github.com>;1657035439;"doxygen only for amd64
+"
+post;open-quantum-safe_ci-containers;832dc17ebcc576ed78b128ac965303b469cbae5d;Michael Baentsch <57787676+baentsch@users.noreply.github.com>;1657086235;"enable profiling analysis (#60)
+
+* enable profiling analysis
+
+* doxygen only for amd64"
+post;open-quantum-safe_ci-containers;5419d3d89a29676e2f2c6f1fcbab6939a47a446b;Michael <57787676+baentsch@users.noreply.github.com>;1669994550;"update go to 1.19
+"
+pre;poissonconsulting_tmbr;ccb21d30d518555cb2579699385c3daad64608b3;Joe Thorley <joe@poissonconsulting.ca>;1628291515;"not load mbr
+"
+pre;poissonconsulting_tmbr;8257be62752b8ed3aaddfac759e87f6609d54a9b;Joe Thorley <joe@poissonconsulting.ca>;1628291708;"trigger build
+"
+pre;poissonconsulting_tmbr;7a6191692cd66950f540d464e9d5c35f1b0029c8;runner <runner@Mac-1628291427135.local>;1628291911;"Built site for tmbr: 0.0.1.9003@ccb21d3
+"
+pre;poissonconsulting_tmbr;cdbad23d4c30b1a0ea1377212f420741642aceda;runner <runner@Mac-1628291399463.local>;1628291992;"Built site for tmbr: 0.0.1.9003@8257be6
+"
+pre;poissonconsulting_tmbr;00c8071792d62db52950365f23af930a6b53119e;Mowahid Latif <mowahidlatif@Mowahids-MacBook-Air.local>;1636571997;"Updating R CMD check Actions
+"
+pre;poissonconsulting_tmbr;b9c602dda81f4b49980e22edc63559e2c405cdd3;Mowahid Latif <mowahidlatif@Mowahids-MacBook-Air.local>;1636577199;"Updating R CMD check Actions
+"
+pre;poissonconsulting_tmbr;af3fce76ccb3d63b9f6b57822e082f8bf9e8645f;Mowahid Latif <mowahidlatif@Mowahids-MacBook-Air.local>;1636747027;"Updating R CMD check Actions
+"
+pre;poissonconsulting_tmbr;f0b5b4f37e1c68a1a49c923af6166ddb1f1ceaec;Ayla Pearson <ayla@poissonconsulting.ca>;1636757058;"Merge pull request #24 from poissonconsulting/changes_to_actions
+
+Updating R CMD check Actions"
+pre;poissonconsulting_tmbr;630f445bbb5fbe883fbcd0e5823c40c1d91edc42;runner <runner@Mac-1636756999471.local>;1636757641;"Built site for tmbr: 0.0.1.9003@f0b5b4f
+"
+pre;poissonconsulting_tmbr;ae50d221cd09cc163d8b4ac98d19baad9ac292b5;Joe Thorley <joe@poissonconsulting.ca>;1646704810;"roxygen note
+"
+post;poissonconsulting_tmbr;7d9181e7857446cf0bb19293f30a8a1391ccbde6;Kirill Müller <krlmlr+r@mailbox.org>;1684913107;"Bump
+"
+post;poissonconsulting_tmbr;55ce64dab82c593e0b84a36131e788fee5293005;Kirill Müller <krlmlr+r@mailbox.org>;1684913375;"Update workflows
+"
+post;poissonconsulting_tmbr;dd2e3ebf85a7b8ab8d8ea01ff0b89de4d0b56990;Kirill Müller <krlmlr+r@mailbox.org>;1684914409;"Suggest RcppEigen
+"
+post;poissonconsulting_tmbr;06a925cfe80dda54101588ad78d8639f6ff46efe;Joe Thorley <joe@poissonconsulting.ca>;1685024447;"fix tests
+"
+post;poissonconsulting_tmbr;5e298906074a1cc772c49bca84c36f9d0f68a02e;Joe Thorley <joe@poissonconsulting.ca>;1685024551;"fix up read me
+"
+post;poissonconsulting_tmbr;bc944e9890a889924972fc8e6328228bcafef70d;Joe Thorley <joe@poissonconsulting.ca>;1685024849;"fix test warnings
+"
+post;poissonconsulting_tmbr;19929eebbfecc0a3d278994033ad5a369ac393ae;Joe Thorley <joe@poissonconsulting.ca>;1685024960;"remove unused dependencies
+"
+post;poissonconsulting_tmbr;6f3d9f22f4d8587d278d201429a311ff79d25248;Joe Thorley <joe@poissonconsulting.ca>;1685025178;"update actions
+"
+post;poissonconsulting_tmbr;524419391f42b3292e9350d25a97d61d461dd489;joethorley <joe@poissonconsulting.ca>;1685025316;"Deploying to gh-pages from @ poissonconsulting/tmbr@6f3d9f22f4d8587d278d201429a311ff79d25248 🚀
+"
+post;poissonconsulting_tmbr;c07afdbfd5830c8ad4a6bd39447cfc6b62363c78;Joe Thorley <joe@poissonconsulting.ca>;1685025769;"add RcppEigen
+"
+pre;tencent_turbotransformers;3d440e48b1795156b732bc041bbe609a3ed83004;fangjiarui <30305715+fangjiarui@users.noreply.github.com>;1632995259;Update README.md
+pre;tencent_turbotransformers;4532fa118c07375b3650f0768b70982c914be4ce;fangjiarui <30305715+fangjiarui@users.noreply.github.com>;1632995918;"Update README.md (#250)
+
+"
+pre;tencent_turbotransformers;9623e5e018849ac88d629df9eec7f9eb609bc3a0;root <root@neosfeng1627541523103-0.neosfeng1627541523103.default.svc.cluster.local>;1651134820;"Add conda_environment.cpu.yml to maintain packages
+"
+pre;tencent_turbotransformers;a3cb918ab9df6dbb4c8577ccb354f28ee8d702d8;Neo Fung <neosfung@gmail.com>;1651137829;"Update Dockerfile_dev.cpu
+"
+pre;tencent_turbotransformers;f6764ebe522aa9bf88faaca44fed39638d8c5fa8;Neo Fung <neosfung@gmail.com>;1651203182;"update Dockerfile_dev.cpu
+"
+pre;tencent_turbotransformers;adf448da2f877731cacf1c1c0532440c0f88847e;Neo Fung <neosfung@gmail.com>;1651212711;"add conda_environment_release.cpu.yml to maintain environment
+"
+pre;tencent_turbotransformers;0fd45fff3e3486e62758bc9ec2b38fbe5f3d739d;Neo@mackbook.tencent <neosfeng@tencent.com>;1651986317;"add zh-cn config
+"
+pre;tencent_turbotransformers;a9ecf7753d51d42952ba19e2fe573c64728649d2;Neo Fung <neosfung@gmail.com>;1652066103;"update
+"
+pre;tencent_turbotransformers;19833ca90728ba31f236b0c7af18355b61e24e03;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1686605557;"Bump transformers from 4.11.1 to 4.30.0
+
+Bumps [transformers](https://github.com/huggingface/transformers) from 4.11.1 to 4.30.0.
+- [Release notes](https://github.com/huggingface/transformers/releases)
+- [Commits](https://github.com/huggingface/transformers/compare/v4.11.1...v4.30.0)
+
+---
+updated-dependencies:
+- dependency-name: transformers
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;tencent_turbotransformers;b1449de215816770e51d7ee2fa80614c93d7124e;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1686605560;"Merge 19833ca90728ba31f236b0c7af18355b61e24e03 into 4532fa118c07375b3650f0768b70982c914be4ce
+"
+post;tencent_turbotransformers;67f2bc3c7a9699265cfb5004ac135359e8f83b97;Yang Yu <josephyu@tencent.com>;1744013513;Update requirements.txt
+post;tencent_turbotransformers;6c7cf638019a6aee4a19649b8d573230bfe8b9ee;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1744013589;"Bump transformers from 4.11.1 to 4.30.0 (#272)
+
+Bumps [transformers](https://github.com/huggingface/transformers) from 4.11.1 to 4.30.0.
+- [Release notes](https://github.com/huggingface/transformers/releases)
+- [Commits](https://github.com/huggingface/transformers/compare/v4.11.1...v4.30.0)
+
+---
+updated-dependencies:
+- dependency-name: transformers
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+post;tencent_turbotransformers;4fc7fb6b7e0d7b828589855ca6a3ecad599b0c24;Yang Yu <reyoung@126.com>;1752810677;Update requirements.txt
